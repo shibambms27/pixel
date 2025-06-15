@@ -14,7 +14,7 @@
   <!-- Google Pixel 8 Series -->
   <project name="austineyoung2000/android_device_google_shusky" path="device/google/shusky" revision="AxionAOSP" remote="github" clone-depth="1" />
   <project name="austineyoung2000/android_device_google_zuma" path="device/google/zuma" revision="AxioAOSP" remote="github" clone-depth="1" />
-  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-22.2" remote="gitlab" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-22.2" remote="github" clone-depth="1" />
   <project name="device/google/shusky-kernels/6.1" path="device/google/shusky-kernels/6.1" revision="refs/tags/android-15.0.0_r36" remote="aosp" clone-depth="1" />
 
 </manifest>
