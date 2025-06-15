@@ -16,7 +16,7 @@
   <project name="ionutsandroidbuilds/proprietary_vendor_google_akita" path="vendor/google/akita" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_husky" path="vendor/google/husky" revision="15.0" remote="gitlab" clone-depth="1" />
   <project name="ionutsandroidbuilds/proprietary_vendor_google_shiba" path="vendor/google/shiba" revision="15.0" remote="gitlab" clone-depth="1" />
-  <project name="device/google/shusky-kernels/6.1" path="device/google/shusky-kernels/6.1" revision="refs/tags/android-15.0.0_r34" remote="aosp" clone-depth="1" />
-  <project name="device/google/akita-kernels/6.1" path="device/google/akita-kernels/6.1" revision="refs/tags/android-15.0.0_r34" remote="aosp" clone-depth="1" />
+  <project name="device/google/shusky-kernels/6.1" path="device/google/shusky-kernels/6.1" revision="refs/tags/android-15.0.0_r36" remote="aosp" clone-depth="1" />
+  <project name="device/google/akita-kernels/6.1" path="device/google/akita-kernels/6.1" revision="refs/tags/android-15.0.0_r36" remote="aosp" clone-depth="1" />
 
 </manifest>
