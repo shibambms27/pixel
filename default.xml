@@ -16,5 +16,7 @@
   <project name="austineyoung2000/android_device_google_zuma" path="device/google/zuma" revision="AxioAOSP" remote="github" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_husky" path="vendor/google/husky" revision="lineage-22.2" remote="github" clone-depth="1" />
   <project name="device/google/shusky-kernels/6.1" path="device/google/shusky-kernels/6.1" revision="refs/tags/android-15.0.0_r36" remote="aosp" clone-depth="1" />
+  <project name="LineageOS/android_device_google_gs201" path="device/google/gs201" revision="lineage-22.2" remote="github" clone-depth="1" />
+  <project name="LineageOS/android_device_google_gs101" path="device/google/gs101" revision="lineage-22.2" remote="github" clone-depth="1" />
 
 </manifest>
